@@ -1,0 +1,106 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Connie Loizos",
+      "title": "Sequoia wants to invest $1 million in your idea, then teach you how to really sell it",
+      "description": "The investment firm Sequoia Capital has no shortage of internal programs for the founders it backs. The idea is to help its startups not merely by sheer dint of their affiliation with Sequoia but by helping them at the outset with everything from storytelling…",
+      "url": "https://techcrunch.com/2022/07/07/sequoia-wants-to-invest-1-million-in-your-idea-then-teach-you-how-to-really-sell-it/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/06/Jess_Lee_hero-1.png?w=764",
+      "publishedAt": "2022-07-08T03:06:26Z",
+      "content": "The investment firm Sequoia Capital has no shortage of internal programs for the founders it backs. The idea is to help its startups not merely by sheer dint of their affiliation with Sequoia but by … [+7246 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Andrew Mendez",
+      "title": "Starlink on your yacht, so hot",
+      "description": "Having conquered orbit, SpaceX’s next venue seems to be the high seas, through a special yacht-focused sub-brand of its satellite internet service called Starlink Maritime. The idea of satellite internet on the water isn’t a new one, but the actual service ge…",
+      "url": "https://techcrunch.com/2022/07/07/starlink-on-your-yacht-so-hot/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/starlink-marine.jpg?w=538",
+      "publishedAt": "2022-07-08T00:02:57Z",
+      "content": "Having conquered orbit, SpaceX’s next venue seems to be the high seas, through a special yacht-focused sub-brand of its satellite internet service called Starlink Maritime.\r\nThe idea of satellite int… [+1970 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kirsten Korosec",
+      "title": "Ford, VW-backed Argo AI lays off 150 workers, slows hiring",
+      "description": "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow. The layoffs account for about 5% …",
+      "url": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480",
+      "publishedAt": "2022-07-08T00:00:52Z",
+      "content": "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforc… [+1098 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kirsten Korosec",
+      "title": "Another fatal Tesla crash is being investigated by U.S. safety regulators",
+      "description": "The National Traffic Highway Safety Administration has opened an investigation into a fatal crash involving a Tesla, according to documents viewed by TechCrunch. The investigation, which was opened in July, is the latest in a long string of inquiries by NHTSA…",
+      "url": "https://techcrunch.com/2022/07/07/another-fatal-tesla-crash-is-being-investigated-by-u-s-safety-regulators/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/10/tesla-Model-3-Performance-Midnight-Silver-Tarmac-Motion.jpg?w=711",
+      "publishedAt": "2022-07-07T23:06:24Z",
+      "content": "The National Traffic Highway Safety Administration has opened an investigation into a fatal crash involving a Tesla, according to documents viewed by TechCrunch.\r\nThe investigation, which was opened … [+1512 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Taylor Hatmaker",
+      "title": "It sounds like Elon Musk is still trying to get out of his own Twitter deal",
+      "description": "According to a new report from The Washington Post that relies heavily on anonymous sources, the world’s richest man is still looking for a way out of a $44 billion deal of his own making. The Post reports that we’ll probably be seeing a “change in direction …",
+      "url": "https://techcrunch.com/2022/07/07/elon-musk-twitter-deal-wapo-report/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-1238367308.jpg?w=601",
+      "publishedAt": "2022-07-07T22:10:37Z",
+      "content": "According to a new report from The Washington Post that relies heavily on anonymous sources, the world’s richest man is still looking for a way out of a $44 billion deal of his own making.\r\nThe Post … [+2504 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Christine Hall",
+      "title": "Daily Crunch: China criticizes India for ‘frequent investigations’ of local Chinese firms",
+      "description": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+      "url": "https://techcrunch.com/2022/07/07/daily-crunch-china-criticizes-india-for-frequent-investigations-of-local-chinese-firms/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-923835828.jpg?w=640",
+      "publishedAt": "2022-07-07T22:05:58Z",
+      "content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT,subscribe here.\r\nGreetings on this fine Thursday. We are still reeling about Elon Mu… [+4879 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Brian Heater",
+      "title": "Why OSOM went web3",
+      "description": "The smartphone startup's CEO discusses the OSOM's Solana partnership",
+      "url": "https://techcrunch.com/2022/07/07/why-osom-went-web3/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/06/Solana_saga_light.jpeg?w=764",
+      "publishedAt": "2022-07-07T21:46:08Z",
+      "content": "I want to do some crazy stuff, Jason Keats says with a laugh. I want to bring back that GEM phone.\r\nHe reaches behind him and pulls the strikingly slender device off a shelf. The batterys dead, but a… [+5748 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Amanda Silberling",
+      "title": "Twitter lays off 30% of its talent acquisition team",
+      "description": "The company is under a hiring freeze in the midst of Elon Musk's planned takeover.",
+      "url": "https://techcrunch.com/2022/07/07/twitter-layoffs-talent-acquisition/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/05/twitter-exit.jpg?w=712",
+      "publishedAt": "2022-07-07T21:27:48Z",
+      "content": "Twitter laid off 30% of its talent acquisition team today, two months into a companywide hiring freeze. A Twitter spokesperson confirmed these layoffs but declined to share the exact number of employ… [+2706 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Matt Burns",
+      "title": "How to use grants and partnerships to fund early stage robotic startups",
+      "description": "Attabotics provides warehouses with a novel robotic solution that is reinventing supply chain management. The company has attracted investment from a wide range of investors, including Gordon Food Service, the Ontario Teachers’ Pension fund, and traditional f…",
+      "url": "https://techcrunch.com/2022/07/07/how-to-use-grants-and-partnerships-to-fund-early-stage-robotic-startups/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2022/07/TCL-2022-07-13-featured-1920x1080-1.jpg?w=711",
+      "publishedAt": "2022-07-07T21:08:41Z",
+      "content": "Attabotics provides warehouses with a novel robotic solution that is reinventing supply chain management. The company has attracted investment from a wide range of investors, including Gordon Food Se… [+903 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm",
+      "title": "So are we in a startup recession or what?",
+      "description": "There's perhaps more capital in the private markets than investors really want to admit.",
+      "url": "https://techcrunch.com/2022/07/07/so-are-we-in-a-startup-recession-or-what/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/12/GettyImages-913812178.jpg?w=600",
+      "publishedAt": "2022-07-07T20:21:42Z",
+      "content": "I don’t know what is going on in the startup market and it’s a bit of a pain in the ass.\r\nThe larger American economy, home to the largest technology startup and venture capital markets in the world,… [+1357 chars]"
+    }
+  ]
+}
